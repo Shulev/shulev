@@ -1,19 +1,23 @@
-![Header](sts4.gif)(https://shulev.ru)
+[![Header](sts4.gif)](https://shulev.ru)
 
 
 
 
-<!--
-**Shulev/shulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engeneer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+____
+### Languages and Tools
+\
+![Linux](https://img.shields.io/badge/-Linux-090909?style=flat-square&logo=linux)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=flat-square&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=flat-square&logo=jenkins)
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=flat-square&logo=GitLab)
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=flat-square&logo=Nginx)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=flat-square&logo=RabbitMQ)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=flat-square&logo=PostgreSQL)
+![Monitoring](https://img.shields.io/badge/-Prometheus-090909?style=flat-square&logo=Prometheus)
+![Terraform](https://img.shields.io/badge/-Terraform-090909?style=flat-square&logo=Terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-090909?style=flat-square&logo=Ansible)
+![OpenNebula ](https://img.shields.io/badge/-OpenNebula-090909?style=flat-square&logo=OpenNebula)
+![OpenStack](https://img.shields.io/badge/-OpenStack-090909?style=flat-square&logo=OpenStack)
+![elasticsearch](https://img.shields.io/badge/-ELK-090909?style=flat-square&logo=elasticsearch)
