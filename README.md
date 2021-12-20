@@ -6,10 +6,11 @@ ____
 &nbsp;
 <details>
   <summary><b>🤠&nbsp;&nbsp;About&nbsp;Me</b></summary>
-
+<br/>
 I'm a Software Engeneer 
-</details>
 &nbsp;
+</details>
+
 <details>
   <summary><b> 	
 &#9997;&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
