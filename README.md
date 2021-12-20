@@ -1,4 +1,4 @@
-![Header](Stanislav.gif)
+![Header](sts.gif)
 
 
 
