@@ -1,4 +1,4 @@
-![Header](sts2.gif)
+![Header](sts3.gif)
 
 
 
