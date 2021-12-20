@@ -1,13 +1,20 @@
 [![Header](sts4.gif)](https://shulev.ru)
 
 
-
-
-### I'm a Software Engeneer
-
 ____
-### Languages and Tools
-\
+
+&nbsp;
+<details>
+  <summary><b>🤠&nbsp;&nbsp;About&nbsp;Me</b></summary>
+
+I'm a Software Engeneer 
+</details>
+&nbsp;
+<details>
+  <summary><b> 	
+&#9997;&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=flat-square&logo=linux)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=flat-square&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=flat-square&logo=jenkins)
@@ -21,3 +28,5 @@ ____
 ![OpenNebula ](https://img.shields.io/badge/-OpenNebula-090909?style=flat-square&logo=OpenNebula)
 ![OpenStack](https://img.shields.io/badge/-OpenStack-090909?style=flat-square&logo=OpenStack)
 ![elasticsearch](https://img.shields.io/badge/-ELK-090909?style=flat-square&logo=elasticsearch)
+
+</details>
